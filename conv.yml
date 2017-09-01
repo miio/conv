@@ -4,3 +4,8 @@ default:
     collate: utf8mb4_bin
 option:
     eval: true
+pdo:
+    host: localhost
+    username: root
+    password:
+    port: 3306

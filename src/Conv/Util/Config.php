@@ -14,7 +14,13 @@ class Config
         ],
         'option' => [
             'eval' => false
-        ]
+        ],
+		'pdo' => [
+    'host' => 'localhost',
+    'username' => 'root',
+    'password' => '',
+    'port' => '3306',
+		]
     ];
 
     /**
